@@ -1,1 +1,1 @@
-# static
+# Source for CreativEDGE
